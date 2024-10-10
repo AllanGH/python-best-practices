@@ -9,3 +9,6 @@ We use poetry...
 
 ## here comes the code
 [comment]: # (TODO add code)
+
+# Geographical information
+Planet Earth.
