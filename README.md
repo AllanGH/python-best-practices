@@ -3,3 +3,8 @@ Example Python project used for the Python Best Development Practices Workshop
 
 ## This is a sub heading
 And this is text
+
+# Installation
+```bash
+pip install -r requirements.txt
+```
