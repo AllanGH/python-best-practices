@@ -5,6 +5,7 @@ Example Python project used for the Python Best Development Practices Workshop
 And this is text
 
 # Installation
-```bash
-pip install -r requirements.txt
-```
+We use poetry...
+
+## here comes the code
+[comment]: # (TODO add code)
